@@ -24,7 +24,7 @@ import com.orsys.tdd.puissance4.serveur.modele.EtatPartie;
 @ClientEndpoint
 public class ClientPuissance4 extends JFrame implements IActionsPuissance4 {
 	
-	
+	// commentaire
 	private static final int NB_LIGS = 6;
 	private static final int NB_COLS = 7;
 	private final int X_COIN_SG = 10;
